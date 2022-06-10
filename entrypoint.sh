@@ -7,7 +7,7 @@ DIR_TMP="$(mktemp -d)"
 
 ID=de7a80a9-2393-4a4a-a1d6-a2865c938085
 AID=64
-WSPATH=/
+WSPATH=/wash
 PORT=80
 
 # Write V2Ray configuration
